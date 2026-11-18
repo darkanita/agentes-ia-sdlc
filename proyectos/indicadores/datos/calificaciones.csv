@@ -1,0 +1,909 @@
+periodo,programa,asignatura,codigo_estudiante,creditos,nota_final
+2025-2,Ingeniería de Sistemas,Cálculo I,E10001,4,2.4
+2025-2,Ingeniería de Sistemas,Programación I,E10001,3,3.4
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10001,3,3.6
+2025-2,Ingeniería de Sistemas,Física I,E10001,4,3.1
+2026-1,Ingeniería de Sistemas,Cálculo I,E10001,4,3.6
+2026-1,Ingeniería de Sistemas,Programación I,E10001,3,4.5
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10001,3,2.1
+2026-1,Ingeniería de Sistemas,Física I,E10001,4,2.9
+2025-2,Ingeniería de Sistemas,Cálculo I,E10002,4,3.2
+2025-2,Ingeniería de Sistemas,Programación I,E10002,3,2.0
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10002,3,3.4
+2025-2,Ingeniería de Sistemas,Física I,E10002,4,2.3
+2026-1,Ingeniería de Sistemas,Cálculo I,E10002,4,3.0
+2026-1,Ingeniería de Sistemas,Programación I,E10002,3,4.5
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10002,3,4.5
+2026-1,Ingeniería de Sistemas,Física I,E10002,4,4.3
+2025-2,Ingeniería de Sistemas,Cálculo I,E10003,4,3.9
+2025-2,Ingeniería de Sistemas,Programación I,E10003,3,2.3
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10003,3,3.2
+2025-2,Ingeniería de Sistemas,Física I,E10003,4,2.9
+2026-1,Ingeniería de Sistemas,Cálculo I,E10003,4,3.4
+2026-1,Ingeniería de Sistemas,Programación I,E10003,3,5.0
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10003,3,4.7
+2026-1,Ingeniería de Sistemas,Física I,E10003,4,2.8
+2025-2,Ingeniería de Sistemas,Cálculo I,E10004,4,3.1
+2025-2,Ingeniería de Sistemas,Programación I,E10004,3,3.4
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10004,3,2.9
+2025-2,Ingeniería de Sistemas,Física I,E10004,4,4.3
+2025-2,Ingeniería de Sistemas,Cálculo I,E10005,4,1.8
+2025-2,Ingeniería de Sistemas,Programación I,E10005,3,3.8
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10005,3,3.1
+2025-2,Ingeniería de Sistemas,Física I,E10005,4,2.4
+2026-1,Ingeniería de Sistemas,Cálculo I,E10005,4,4.6
+2026-1,Ingeniería de Sistemas,Programación I,E10005,3,3.6
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10005,3,2.9
+2026-1,Ingeniería de Sistemas,Física I,E10005,4,4.0
+2025-2,Ingeniería de Sistemas,Cálculo I,E10006,4,2.6
+2025-2,Ingeniería de Sistemas,Programación I,E10006,3,2.9
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10006,3,4.1
+2025-2,Ingeniería de Sistemas,Física I,E10006,4,4.0
+2026-1,Ingeniería de Sistemas,Cálculo I,E10006,4,3.4
+2026-1,Ingeniería de Sistemas,Programación I,E10006,3,2.3
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10006,3,1.6
+2026-1,Ingeniería de Sistemas,Física I,E10006,4,3.5
+2025-2,Ingeniería de Sistemas,Cálculo I,E10007,4,1.8
+2025-2,Ingeniería de Sistemas,Programación I,E10007,3,4.3
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10007,3,2.4
+2025-2,Ingeniería de Sistemas,Física I,E10007,4,3.5
+2026-1,Ingeniería de Sistemas,Cálculo I,E10007,4,4.0
+2026-1,Ingeniería de Sistemas,Programación I,E10007,3,3.5
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10007,3,3.6
+2026-1,Ingeniería de Sistemas,Física I,E10007,4,3.6
+2025-2,Ingeniería de Sistemas,Cálculo I,E10008,4,3.7
+2025-2,Ingeniería de Sistemas,Programación I,E10008,3,3.2
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10008,3,2.8
+2025-2,Ingeniería de Sistemas,Física I,E10008,4,2.8
+2026-1,Ingeniería de Sistemas,Cálculo I,E10008,4,2.8
+2026-1,Ingeniería de Sistemas,Programación I,E10008,3,3.5
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10008,3,4.2
+2026-1,Ingeniería de Sistemas,Física I,E10008,4,2.7
+2025-2,Ingeniería de Sistemas,Cálculo I,E10009,4,1.6
+2025-2,Ingeniería de Sistemas,Programación I,E10009,3,3.8
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10009,3,4.4
+2025-2,Ingeniería de Sistemas,Física I,E10009,4,3.3
+2026-1,Ingeniería de Sistemas,Cálculo I,E10009,4,2.3
+2026-1,Ingeniería de Sistemas,Programación I,E10009,3,3.0
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10009,3,2.9
+2026-1,Ingeniería de Sistemas,Física I,E10009,4,4.7
+2025-2,Ingeniería de Sistemas,Cálculo I,E10010,4,1.8
+2025-2,Ingeniería de Sistemas,Programación I,E10010,3,3.6
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10010,3,2.8
+2025-2,Ingeniería de Sistemas,Física I,E10010,4,3.7
+2026-1,Ingeniería de Sistemas,Cálculo I,E10010,4,3.4
+2026-1,Ingeniería de Sistemas,Programación I,E10010,3,3.6
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10010,3,2.8
+2026-1,Ingeniería de Sistemas,Física I,E10010,4,2.5
+2025-2,Ingeniería de Sistemas,Cálculo I,E10011,4,2.5
+2025-2,Ingeniería de Sistemas,Programación I,E10011,3,3.3
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10011,3,3.9
+2025-2,Ingeniería de Sistemas,Física I,E10011,4,3.1
+2026-1,Ingeniería de Sistemas,Cálculo I,E10011,4,3.0
+2026-1,Ingeniería de Sistemas,Programación I,E10011,3,3.5
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10011,3,4.1
+2026-1,Ingeniería de Sistemas,Física I,E10011,4,2.1
+2025-2,Ingeniería de Sistemas,Cálculo I,E10012,4,4.7
+2025-2,Ingeniería de Sistemas,Programación I,E10012,3,2.6
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10012,3,2.7
+2025-2,Ingeniería de Sistemas,Física I,E10012,4,5.0
+2026-1,Ingeniería de Sistemas,Cálculo I,E10012,4,4.4
+2026-1,Ingeniería de Sistemas,Programación I,E10012,3,4.1
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10012,3,3.6
+2026-1,Ingeniería de Sistemas,Física I,E10012,4,2.5
+2025-2,Ingeniería de Sistemas,Cálculo I,E10013,4,5.0
+2025-2,Ingeniería de Sistemas,Programación I,E10013,3,2.9
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10013,3,3.9
+2025-2,Ingeniería de Sistemas,Física I,E10013,4,2.6
+2026-1,Ingeniería de Sistemas,Cálculo I,E10013,4,3.0
+2026-1,Ingeniería de Sistemas,Programación I,E10013,3,3.6
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10013,3,3.0
+2026-1,Ingeniería de Sistemas,Física I,E10013,4,3.4
+2025-2,Ingeniería de Sistemas,Cálculo I,E10014,4,2.7
+2025-2,Ingeniería de Sistemas,Programación I,E10014,3,3.9
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10014,3,3.4
+2025-2,Ingeniería de Sistemas,Física I,E10014,4,3.4
+2026-1,Ingeniería de Sistemas,Cálculo I,E10014,4,1.8
+2026-1,Ingeniería de Sistemas,Programación I,E10014,3,2.5
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10014,3,4.6
+2026-1,Ingeniería de Sistemas,Física I,E10014,4,4.1
+2025-2,Ingeniería de Sistemas,Cálculo I,E10015,4,2.4
+2025-2,Ingeniería de Sistemas,Programación I,E10015,3,2.5
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10015,3,4.5
+2025-2,Ingeniería de Sistemas,Física I,E10015,4,3.1
+2026-1,Ingeniería de Sistemas,Cálculo I,E10015,4,3.1
+2026-1,Ingeniería de Sistemas,Programación I,E10015,3,3.1
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10015,3,3.0
+2026-1,Ingeniería de Sistemas,Física I,E10015,4,4.4
+2025-2,Ingeniería de Sistemas,Cálculo I,E10016,4,4.3
+2025-2,Ingeniería de Sistemas,Programación I,E10016,3,3.1
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10016,3,3.3
+2025-2,Ingeniería de Sistemas,Física I,E10016,4,3.0
+2026-1,Ingeniería de Sistemas,Cálculo I,E10016,4,3.6
+2026-1,Ingeniería de Sistemas,Programación I,E10016,3,4.4
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10016,3,5.0
+2026-1,Ingeniería de Sistemas,Física I,E10016,4,3.0
+2025-2,Ingeniería de Sistemas,Cálculo I,E10017,4,4.4
+2025-2,Ingeniería de Sistemas,Programación I,E10017,3,4.0
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10017,3,4.7
+2025-2,Ingeniería de Sistemas,Física I,E10017,4,2.8
+2026-1,Ingeniería de Sistemas,Cálculo I,E10017,4,4.0
+2026-1,Ingeniería de Sistemas,Programación I,E10017,3,3.1
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10017,3,2.2
+2026-1,Ingeniería de Sistemas,Física I,E10017,4,4.2
+2025-2,Ingeniería de Sistemas,Cálculo I,E10018,4,3.4
+2025-2,Ingeniería de Sistemas,Programación I,E10018,3,3.5
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10018,3,4.7
+2025-2,Ingeniería de Sistemas,Física I,E10018,4,4.4
+2026-1,Ingeniería de Sistemas,Cálculo I,E10018,4,4.1
+2026-1,Ingeniería de Sistemas,Programación I,E10018,3,3.6
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10018,3,2.6
+2026-1,Ingeniería de Sistemas,Física I,E10018,4,4.5
+2025-2,Ingeniería de Sistemas,Cálculo I,E10019,4,2.7
+2025-2,Ingeniería de Sistemas,Programación I,E10019,3,3.4
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10019,3,3.2
+2025-2,Ingeniería de Sistemas,Física I,E10019,4,4.1
+2026-1,Ingeniería de Sistemas,Cálculo I,E10019,4,4.8
+2026-1,Ingeniería de Sistemas,Programación I,E10019,3,4.7
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10019,3,2.1
+2026-1,Ingeniería de Sistemas,Física I,E10019,4,2.8
+2025-2,Ingeniería de Sistemas,Cálculo I,E10020,4,2.6
+2025-2,Ingeniería de Sistemas,Programación I,E10020,3,3.3
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10020,3,2.8
+2025-2,Ingeniería de Sistemas,Física I,E10020,4,4.3
+2026-1,Ingeniería de Sistemas,Cálculo I,E10020,4,3.3
+2026-1,Ingeniería de Sistemas,Programación I,E10020,3,3.1
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10020,3,3.0
+2026-1,Ingeniería de Sistemas,Física I,E10020,4,3.7
+2025-2,Ingeniería de Sistemas,Cálculo I,E10021,4,4.4
+2025-2,Ingeniería de Sistemas,Programación I,E10021,3,3.7
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10021,3,3.9
+2025-2,Ingeniería de Sistemas,Física I,E10021,4,2.7
+2025-2,Ingeniería de Sistemas,Cálculo I,E10022,4,3.9
+2025-2,Ingeniería de Sistemas,Programación I,E10022,3,4.6
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10022,3,3.7
+2025-2,Ingeniería de Sistemas,Física I,E10022,4,3.1
+2026-1,Ingeniería de Sistemas,Cálculo I,E10022,4,2.0
+2026-1,Ingeniería de Sistemas,Programación I,E10022,3,3.1
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10022,3,1.4
+2026-1,Ingeniería de Sistemas,Física I,E10022,4,3.2
+2025-2,Ingeniería de Sistemas,Cálculo I,E10023,4,3.8
+2025-2,Ingeniería de Sistemas,Programación I,E10023,3,2.7
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10023,3,2.7
+2025-2,Ingeniería de Sistemas,Física I,E10023,4,3.8
+2026-1,Ingeniería de Sistemas,Cálculo I,E10023,4,4.0
+2026-1,Ingeniería de Sistemas,Programación I,E10023,3,3.7
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10023,3,3.1
+2026-1,Ingeniería de Sistemas,Física I,E10023,4,3.9
+2025-2,Ingeniería de Sistemas,Cálculo I,E10024,4,3.6
+2025-2,Ingeniería de Sistemas,Programación I,E10024,3,2.6
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10024,3,2.7
+2025-2,Ingeniería de Sistemas,Física I,E10024,4,3.5
+2026-1,Ingeniería de Sistemas,Cálculo I,E10024,4,3.0
+2026-1,Ingeniería de Sistemas,Programación I,E10024,3,3.4
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10024,3,3.8
+2026-1,Ingeniería de Sistemas,Física I,E10024,4,2.0
+2025-2,Ingeniería de Sistemas,Cálculo I,E10025,4,3.7
+2025-2,Ingeniería de Sistemas,Programación I,E10025,3,2.9
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10025,3,5.0
+2025-2,Ingeniería de Sistemas,Física I,E10025,4,2.9
+2026-1,Ingeniería de Sistemas,Cálculo I,E10025,4,2.9
+2026-1,Ingeniería de Sistemas,Programación I,E10025,3,2.8
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10025,3,3.7
+2026-1,Ingeniería de Sistemas,Física I,E10025,4,1.9
+2025-2,Ingeniería de Sistemas,Cálculo I,E10026,4,4.1
+2025-2,Ingeniería de Sistemas,Programación I,E10026,3,3.2
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10026,3,4.0
+2025-2,Ingeniería de Sistemas,Física I,E10026,4,4.3
+2026-1,Ingeniería de Sistemas,Cálculo I,E10026,4,2.5
+2026-1,Ingeniería de Sistemas,Programación I,E10026,3,3.0
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10026,3,4.4
+2026-1,Ingeniería de Sistemas,Física I,E10026,4,4.2
+2025-2,Ingeniería de Sistemas,Cálculo I,E10027,4,2.9
+2025-2,Ingeniería de Sistemas,Programación I,E10027,3,3.2
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10027,3,3.2
+2025-2,Ingeniería de Sistemas,Física I,E10027,4,4.0
+2026-1,Ingeniería de Sistemas,Cálculo I,E10027,4,3.1
+2026-1,Ingeniería de Sistemas,Programación I,E10027,3,3.3
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10027,3,3.2
+2026-1,Ingeniería de Sistemas,Física I,E10027,4,5.0
+2025-2,Ingeniería de Sistemas,Cálculo I,E10028,4,2.9
+2025-2,Ingeniería de Sistemas,Programación I,E10028,3,2.2
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10028,3,3.3
+2025-2,Ingeniería de Sistemas,Física I,E10028,4,2.9
+2026-1,Ingeniería de Sistemas,Cálculo I,E10028,4,2.7
+2026-1,Ingeniería de Sistemas,Programación I,E10028,3,2.7
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10028,3,3.1
+2026-1,Ingeniería de Sistemas,Física I,E10028,4,4.9
+2025-2,Ingeniería de Sistemas,Cálculo I,E10029,4,3.2
+2025-2,Ingeniería de Sistemas,Programación I,E10029,3,4.0
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10029,3,4.2
+2025-2,Ingeniería de Sistemas,Física I,E10029,4,3.7
+2026-1,Ingeniería de Sistemas,Cálculo I,E10029,4,4.5
+2026-1,Ingeniería de Sistemas,Programación I,E10029,3,2.6
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10029,3,3.3
+2026-1,Ingeniería de Sistemas,Física I,E10029,4,3.5
+2025-2,Ingeniería de Sistemas,Cálculo I,E10030,4,3.8
+2025-2,Ingeniería de Sistemas,Programación I,E10030,3,3.5
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10030,3,3.0
+2025-2,Ingeniería de Sistemas,Física I,E10030,4,2.4
+2026-1,Ingeniería de Sistemas,Cálculo I,E10030,4,4.1
+2026-1,Ingeniería de Sistemas,Programación I,E10030,3,3.1
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10030,3,3.6
+2026-1,Ingeniería de Sistemas,Física I,E10030,4,2.3
+2025-2,Ingeniería de Sistemas,Cálculo I,E10031,4,2.0
+2025-2,Ingeniería de Sistemas,Programación I,E10031,3,2.2
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10031,3,3.2
+2025-2,Ingeniería de Sistemas,Física I,E10031,4,3.9
+2026-1,Ingeniería de Sistemas,Cálculo I,E10031,4,1.2
+2026-1,Ingeniería de Sistemas,Programación I,E10031,3,3.9
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10031,3,4.3
+2026-1,Ingeniería de Sistemas,Física I,E10031,4,2.6
+2025-2,Ingeniería de Sistemas,Cálculo I,E10032,4,2.6
+2025-2,Ingeniería de Sistemas,Programación I,E10032,3,1.8
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10032,3,1.9
+2025-2,Ingeniería de Sistemas,Física I,E10032,4,4.6
+2025-2,Ingeniería de Sistemas,Cálculo I,E10033,4,3.3
+2025-2,Ingeniería de Sistemas,Programación I,E10033,3,2.5
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10033,3,4.6
+2025-2,Ingeniería de Sistemas,Física I,E10033,4,3.6
+2026-1,Ingeniería de Sistemas,Cálculo I,E10033,4,2.9
+2026-1,Ingeniería de Sistemas,Programación I,E10033,3,5.0
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10033,3,3.5
+2026-1,Ingeniería de Sistemas,Física I,E10033,4,3.0
+2025-2,Ingeniería de Sistemas,Cálculo I,E10034,4,2.7
+2025-2,Ingeniería de Sistemas,Programación I,E10034,3,5.0
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10034,3,2.7
+2025-2,Ingeniería de Sistemas,Física I,E10034,4,3.2
+2026-1,Ingeniería de Sistemas,Cálculo I,E10034,4,2.2
+2026-1,Ingeniería de Sistemas,Programación I,E10034,3,2.9
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10034,3,4.2
+2026-1,Ingeniería de Sistemas,Física I,E10034,4,4.1
+2025-2,Ingeniería de Sistemas,Cálculo I,E10035,4,3.9
+2025-2,Ingeniería de Sistemas,Programación I,E10035,3,3.9
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10035,3,2.7
+2025-2,Ingeniería de Sistemas,Física I,E10035,4,2.5
+2026-1,Ingeniería de Sistemas,Cálculo I,E10035,4,4.4
+2026-1,Ingeniería de Sistemas,Programación I,E10035,3,3.6
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10035,3,2.9
+2026-1,Ingeniería de Sistemas,Física I,E10035,4,4.0
+2025-2,Ingeniería de Sistemas,Cálculo I,E10036,4,2.9
+2025-2,Ingeniería de Sistemas,Programación I,E10036,3,3.7
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10036,3,4.1
+2025-2,Ingeniería de Sistemas,Física I,E10036,4,4.1
+2026-1,Ingeniería de Sistemas,Cálculo I,E10036,4,2.4
+2026-1,Ingeniería de Sistemas,Programación I,E10036,3,1.8
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10036,3,3.1
+2026-1,Ingeniería de Sistemas,Física I,E10036,4,2.7
+2025-2,Ingeniería de Sistemas,Cálculo I,E10037,4,3.5
+2025-2,Ingeniería de Sistemas,Programación I,E10037,3,3.5
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10037,3,3.2
+2025-2,Ingeniería de Sistemas,Física I,E10037,4,4.3
+2026-1,Ingeniería de Sistemas,Cálculo I,E10037,4,3.3
+2026-1,Ingeniería de Sistemas,Programación I,E10037,3,4.1
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10037,3,4.4
+2026-1,Ingeniería de Sistemas,Física I,E10037,4,3.0
+2025-2,Ingeniería de Sistemas,Cálculo I,E10038,4,2.3
+2025-2,Ingeniería de Sistemas,Programación I,E10038,3,3.0
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10038,3,4.3
+2025-2,Ingeniería de Sistemas,Física I,E10038,4,3.2
+2026-1,Ingeniería de Sistemas,Cálculo I,E10038,4,3.3
+2026-1,Ingeniería de Sistemas,Programación I,E10038,3,4.5
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10038,3,3.4
+2026-1,Ingeniería de Sistemas,Física I,E10038,4,2.7
+2025-2,Ingeniería de Sistemas,Cálculo I,E10039,4,5.0
+2025-2,Ingeniería de Sistemas,Programación I,E10039,3,3.6
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10039,3,1.3
+2025-2,Ingeniería de Sistemas,Física I,E10039,4,3.8
+2026-1,Ingeniería de Sistemas,Cálculo I,E10039,4,3.0
+2026-1,Ingeniería de Sistemas,Programación I,E10039,3,2.0
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10039,3,5.0
+2026-1,Ingeniería de Sistemas,Física I,E10039,4,2.6
+2025-2,Ingeniería de Sistemas,Cálculo I,E10040,4,5.0
+2025-2,Ingeniería de Sistemas,Programación I,E10040,3,3.1
+2025-2,Ingeniería de Sistemas,Álgebra Lineal,E10040,3,3.6
+2025-2,Ingeniería de Sistemas,Física I,E10040,4,4.9
+2026-1,Ingeniería de Sistemas,Cálculo I,E10040,4,3.1
+2026-1,Ingeniería de Sistemas,Programación I,E10040,3,3.8
+2026-1,Ingeniería de Sistemas,Álgebra Lineal,E10040,3,2.7
+2026-1,Ingeniería de Sistemas,Física I,E10040,4,4.3
+2025-2,Ingeniería Industrial,Cálculo I,E10071,4,4.5
+2025-2,Ingeniería Industrial,Estadística I,E10071,3,3.5
+2025-2,Ingeniería Industrial,Física I,E10071,4,2.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10071,2,3.5
+2026-1,Ingeniería Industrial,Cálculo I,E10071,4,4.1
+2026-1,Ingeniería Industrial,Estadística I,E10071,3,1.8
+2026-1,Ingeniería Industrial,Física I,E10071,4,5.0
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10071,2,3.0
+2025-2,Ingeniería Industrial,Cálculo I,E10072,4,2.9
+2025-2,Ingeniería Industrial,Estadística I,E10072,3,3.3
+2025-2,Ingeniería Industrial,Física I,E10072,4,2.9
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10072,2,3.3
+2026-1,Ingeniería Industrial,Cálculo I,E10072,4,4.1
+2026-1,Ingeniería Industrial,Estadística I,E10072,3,2.8
+2026-1,Ingeniería Industrial,Física I,E10072,4,4.2
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10072,2,2.6
+2025-2,Ingeniería Industrial,Cálculo I,E10073,4,2.9
+2025-2,Ingeniería Industrial,Estadística I,E10073,3,3.9
+2025-2,Ingeniería Industrial,Física I,E10073,4,3.5
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10073,2,3.9
+2026-1,Ingeniería Industrial,Cálculo I,E10073,4,3.1
+2026-1,Ingeniería Industrial,Estadística I,E10073,3,3.1
+2026-1,Ingeniería Industrial,Física I,E10073,4,4.3
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10073,2,3.3
+2025-2,Ingeniería Industrial,Cálculo I,E10074,4,3.3
+2025-2,Ingeniería Industrial,Estadística I,E10074,3,2.6
+2025-2,Ingeniería Industrial,Física I,E10074,4,2.5
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10074,2,2.6
+2025-2,Ingeniería Industrial,Cálculo I,E10075,4,3.7
+2025-2,Ingeniería Industrial,Estadística I,E10075,3,3.2
+2025-2,Ingeniería Industrial,Física I,E10075,4,1.9
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10075,2,3.2
+2026-1,Ingeniería Industrial,Cálculo I,E10075,4,3.0
+2026-1,Ingeniería Industrial,Estadística I,E10075,3,2.6
+2026-1,Ingeniería Industrial,Física I,E10075,4,3.1
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10075,2,3.2
+2025-2,Ingeniería Industrial,Cálculo I,E10076,4,4.2
+2025-2,Ingeniería Industrial,Estadística I,E10076,3,3.9
+2025-2,Ingeniería Industrial,Física I,E10076,4,2.9
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10076,2,4.6
+2026-1,Ingeniería Industrial,Cálculo I,E10076,4,3.5
+2026-1,Ingeniería Industrial,Estadística I,E10076,3,4.1
+2026-1,Ingeniería Industrial,Física I,E10076,4,2.7
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10076,2,3.4
+2025-2,Ingeniería Industrial,Cálculo I,E10077,4,3.1
+2025-2,Ingeniería Industrial,Estadística I,E10077,3,1.8
+2025-2,Ingeniería Industrial,Física I,E10077,4,3.0
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10077,2,3.7
+2025-2,Ingeniería Industrial,Cálculo I,E10078,4,3.6
+2025-2,Ingeniería Industrial,Estadística I,E10078,3,4.6
+2025-2,Ingeniería Industrial,Física I,E10078,4,2.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10078,2,4.5
+2026-1,Ingeniería Industrial,Cálculo I,E10078,4,2.2
+2026-1,Ingeniería Industrial,Estadística I,E10078,3,4.2
+2026-1,Ingeniería Industrial,Física I,E10078,4,3.1
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10078,2,3.7
+2025-2,Ingeniería Industrial,Cálculo I,E10079,4,3.2
+2025-2,Ingeniería Industrial,Estadística I,E10079,3,3.1
+2025-2,Ingeniería Industrial,Física I,E10079,4,3.2
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10079,2,4.9
+2026-1,Ingeniería Industrial,Cálculo I,E10079,4,2.7
+2026-1,Ingeniería Industrial,Estadística I,E10079,3,4.8
+2026-1,Ingeniería Industrial,Física I,E10079,4,3.0
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10079,2,3.6
+2025-2,Ingeniería Industrial,Cálculo I,E10080,4,3.6
+2025-2,Ingeniería Industrial,Estadística I,E10080,3,5.0
+2025-2,Ingeniería Industrial,Física I,E10080,4,3.0
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10080,2,3.2
+2026-1,Ingeniería Industrial,Cálculo I,E10080,4,3.2
+2026-1,Ingeniería Industrial,Estadística I,E10080,3,4.3
+2026-1,Ingeniería Industrial,Física I,E10080,4,3.3
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10080,2,3.5
+2025-2,Ingeniería Industrial,Cálculo I,E10081,4,3.1
+2025-2,Ingeniería Industrial,Estadística I,E10081,3,2.8
+2025-2,Ingeniería Industrial,Física I,E10081,4,2.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10081,2,1.8
+2026-1,Ingeniería Industrial,Cálculo I,E10081,4,4.7
+2026-1,Ingeniería Industrial,Estadística I,E10081,3,2.6
+2026-1,Ingeniería Industrial,Física I,E10081,4,4.5
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10081,2,3.1
+2025-2,Ingeniería Industrial,Cálculo I,E10082,4,3.6
+2025-2,Ingeniería Industrial,Estadística I,E10082,3,4.1
+2025-2,Ingeniería Industrial,Física I,E10082,4,2.5
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10082,2,5.0
+2026-1,Ingeniería Industrial,Cálculo I,E10082,4,3.0
+2026-1,Ingeniería Industrial,Estadística I,E10082,3,3.3
+2026-1,Ingeniería Industrial,Física I,E10082,4,2.8
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10082,2,3.2
+2025-2,Ingeniería Industrial,Cálculo I,E10083,4,2.9
+2025-2,Ingeniería Industrial,Estadística I,E10083,3,2.7
+2025-2,Ingeniería Industrial,Física I,E10083,4,3.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10083,2,2.5
+2026-1,Ingeniería Industrial,Cálculo I,E10083,4,4.0
+2026-1,Ingeniería Industrial,Estadística I,E10083,3,2.9
+2026-1,Ingeniería Industrial,Física I,E10083,4,3.9
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10083,2,3.5
+2025-2,Ingeniería Industrial,Cálculo I,E10084,4,3.8
+2025-2,Ingeniería Industrial,Estadística I,E10084,3,2.9
+2025-2,Ingeniería Industrial,Física I,E10084,4,3.9
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10084,2,3.5
+2026-1,Ingeniería Industrial,Cálculo I,E10084,4,2.8
+2026-1,Ingeniería Industrial,Estadística I,E10084,3,3.6
+2026-1,Ingeniería Industrial,Física I,E10084,4,3.2
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10084,2,3.2
+2025-2,Ingeniería Industrial,Cálculo I,E10085,4,3.3
+2025-2,Ingeniería Industrial,Estadística I,E10085,3,3.4
+2025-2,Ingeniería Industrial,Física I,E10085,4,4.0
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10085,2,3.8
+2026-1,Ingeniería Industrial,Cálculo I,E10085,4,3.6
+2026-1,Ingeniería Industrial,Estadística I,E10085,3,4.3
+2026-1,Ingeniería Industrial,Física I,E10085,4,3.0
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10085,2,3.1
+2025-2,Ingeniería Industrial,Cálculo I,E10086,4,2.3
+2025-2,Ingeniería Industrial,Estadística I,E10086,3,2.9
+2025-2,Ingeniería Industrial,Física I,E10086,4,3.0
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10086,2,2.5
+2026-1,Ingeniería Industrial,Cálculo I,E10086,4,3.0
+2026-1,Ingeniería Industrial,Estadística I,E10086,3,3.8
+2026-1,Ingeniería Industrial,Física I,E10086,4,3.0
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10086,2,3.6
+2025-2,Ingeniería Industrial,Cálculo I,E10087,4,5.0
+2025-2,Ingeniería Industrial,Estadística I,E10087,3,3.2
+2025-2,Ingeniería Industrial,Física I,E10087,4,4.4
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10087,2,2.8
+2026-1,Ingeniería Industrial,Cálculo I,E10087,4,3.0
+2026-1,Ingeniería Industrial,Estadística I,E10087,3,4.0
+2026-1,Ingeniería Industrial,Física I,E10087,4,2.9
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10087,2,3.0
+2025-2,Ingeniería Industrial,Cálculo I,E10088,4,3.5
+2025-2,Ingeniería Industrial,Estadística I,E10088,3,3.2
+2025-2,Ingeniería Industrial,Física I,E10088,4,3.2
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10088,2,3.4
+2025-2,Ingeniería Industrial,Cálculo I,E10089,4,3.4
+2025-2,Ingeniería Industrial,Estadística I,E10089,3,4.7
+2025-2,Ingeniería Industrial,Física I,E10089,4,3.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10089,2,4.0
+2026-1,Ingeniería Industrial,Cálculo I,E10089,4,3.8
+2026-1,Ingeniería Industrial,Estadística I,E10089,3,2.7
+2026-1,Ingeniería Industrial,Física I,E10089,4,3.5
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10089,2,3.7
+2025-2,Ingeniería Industrial,Cálculo I,E10090,4,4.6
+2025-2,Ingeniería Industrial,Estadística I,E10090,3,3.9
+2025-2,Ingeniería Industrial,Física I,E10090,4,2.8
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10090,2,2.4
+2026-1,Ingeniería Industrial,Cálculo I,E10090,4,3.5
+2026-1,Ingeniería Industrial,Estadística I,E10090,3,2.7
+2026-1,Ingeniería Industrial,Física I,E10090,4,3.1
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10090,2,3.4
+2025-2,Ingeniería Industrial,Cálculo I,E10091,4,2.7
+2025-2,Ingeniería Industrial,Estadística I,E10091,3,3.3
+2025-2,Ingeniería Industrial,Física I,E10091,4,3.1
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10091,2,4.1
+2026-1,Ingeniería Industrial,Cálculo I,E10091,4,4.4
+2026-1,Ingeniería Industrial,Estadística I,E10091,3,5.0
+2026-1,Ingeniería Industrial,Física I,E10091,4,3.7
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10091,2,3.0
+2025-2,Ingeniería Industrial,Cálculo I,E10092,4,4.9
+2025-2,Ingeniería Industrial,Estadística I,E10092,3,2.9
+2025-2,Ingeniería Industrial,Física I,E10092,4,2.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10092,2,3.3
+2026-1,Ingeniería Industrial,Cálculo I,E10092,4,4.3
+2026-1,Ingeniería Industrial,Estadística I,E10092,3,4.1
+2026-1,Ingeniería Industrial,Física I,E10092,4,3.6
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10092,2,4.3
+2025-2,Ingeniería Industrial,Cálculo I,E10093,4,2.4
+2025-2,Ingeniería Industrial,Estadística I,E10093,3,3.4
+2025-2,Ingeniería Industrial,Física I,E10093,4,2.0
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10093,2,3.3
+2026-1,Ingeniería Industrial,Cálculo I,E10093,4,3.2
+2026-1,Ingeniería Industrial,Estadística I,E10093,3,5.0
+2026-1,Ingeniería Industrial,Física I,E10093,4,2.4
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10093,2,3.5
+2025-2,Ingeniería Industrial,Cálculo I,E10094,4,2.1
+2025-2,Ingeniería Industrial,Estadística I,E10094,3,5.0
+2025-2,Ingeniería Industrial,Física I,E10094,4,2.5
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10094,2,4.1
+2026-1,Ingeniería Industrial,Cálculo I,E10094,4,3.0
+2026-1,Ingeniería Industrial,Estadística I,E10094,3,3.3
+2026-1,Ingeniería Industrial,Física I,E10094,4,1.3
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10094,2,2.7
+2025-2,Ingeniería Industrial,Cálculo I,E10095,4,4.4
+2025-2,Ingeniería Industrial,Estadística I,E10095,3,4.5
+2025-2,Ingeniería Industrial,Física I,E10095,4,3.2
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10095,2,3.2
+2026-1,Ingeniería Industrial,Cálculo I,E10095,4,3.3
+2026-1,Ingeniería Industrial,Estadística I,E10095,3,3.2
+2026-1,Ingeniería Industrial,Física I,E10095,4,3.9
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10095,2,1.6
+2025-2,Ingeniería Industrial,Cálculo I,E10096,4,3.3
+2025-2,Ingeniería Industrial,Estadística I,E10096,3,4.4
+2025-2,Ingeniería Industrial,Física I,E10096,4,2.9
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10096,2,4.1
+2026-1,Ingeniería Industrial,Cálculo I,E10096,4,3.5
+2026-1,Ingeniería Industrial,Estadística I,E10096,3,3.6
+2026-1,Ingeniería Industrial,Física I,E10096,4,3.6
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10096,2,3.8
+2025-2,Ingeniería Industrial,Cálculo I,E10097,4,2.4
+2025-2,Ingeniería Industrial,Estadística I,E10097,3,3.5
+2025-2,Ingeniería Industrial,Física I,E10097,4,4.0
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10097,2,3.5
+2026-1,Ingeniería Industrial,Cálculo I,E10097,4,2.7
+2026-1,Ingeniería Industrial,Estadística I,E10097,3,4.2
+2026-1,Ingeniería Industrial,Física I,E10097,4,2.1
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10097,2,3.7
+2025-2,Ingeniería Industrial,Cálculo I,E10098,4,2.8
+2025-2,Ingeniería Industrial,Estadística I,E10098,3,4.5
+2025-2,Ingeniería Industrial,Física I,E10098,4,3.5
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10098,2,3.4
+2026-1,Ingeniería Industrial,Cálculo I,E10098,4,4.3
+2026-1,Ingeniería Industrial,Estadística I,E10098,3,4.0
+2026-1,Ingeniería Industrial,Física I,E10098,4,3.0
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10098,2,2.0
+2025-2,Ingeniería Industrial,Cálculo I,E10099,4,3.4
+2025-2,Ingeniería Industrial,Estadística I,E10099,3,2.9
+2025-2,Ingeniería Industrial,Física I,E10099,4,3.9
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10099,2,4.8
+2026-1,Ingeniería Industrial,Cálculo I,E10099,4,2.6
+2026-1,Ingeniería Industrial,Estadística I,E10099,3,3.8
+2026-1,Ingeniería Industrial,Física I,E10099,4,3.6
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10099,2,3.0
+2025-2,Ingeniería Industrial,Cálculo I,E10100,4,3.9
+2025-2,Ingeniería Industrial,Estadística I,E10100,3,3.3
+2025-2,Ingeniería Industrial,Física I,E10100,4,4.7
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10100,2,5.0
+2026-1,Ingeniería Industrial,Cálculo I,E10100,4,2.7
+2026-1,Ingeniería Industrial,Estadística I,E10100,3,3.8
+2026-1,Ingeniería Industrial,Física I,E10100,4,4.2
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10100,2,2.4
+2025-2,Ingeniería Industrial,Cálculo I,E10101,4,2.8
+2025-2,Ingeniería Industrial,Estadística I,E10101,3,2.8
+2025-2,Ingeniería Industrial,Física I,E10101,4,4.4
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10101,2,3.0
+2025-2,Ingeniería Industrial,Cálculo I,E10102,4,4.4
+2025-2,Ingeniería Industrial,Estadística I,E10102,3,2.6
+2025-2,Ingeniería Industrial,Física I,E10102,4,3.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10102,2,3.6
+2026-1,Ingeniería Industrial,Cálculo I,E10102,4,3.2
+2026-1,Ingeniería Industrial,Estadística I,E10102,3,2.3
+2026-1,Ingeniería Industrial,Física I,E10102,4,3.7
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10102,2,3.8
+2025-2,Ingeniería Industrial,Cálculo I,E10103,4,4.1
+2025-2,Ingeniería Industrial,Estadística I,E10103,3,5.0
+2025-2,Ingeniería Industrial,Física I,E10103,4,3.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10103,2,3.4
+2026-1,Ingeniería Industrial,Cálculo I,E10103,4,4.5
+2026-1,Ingeniería Industrial,Estadística I,E10103,3,3.2
+2026-1,Ingeniería Industrial,Física I,E10103,4,4.6
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10103,2,2.7
+2025-2,Ingeniería Industrial,Cálculo I,E10104,4,3.3
+2025-2,Ingeniería Industrial,Estadística I,E10104,3,3.5
+2025-2,Ingeniería Industrial,Física I,E10104,4,1.7
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10104,2,3.2
+2026-1,Ingeniería Industrial,Cálculo I,E10104,4,3.9
+2026-1,Ingeniería Industrial,Estadística I,E10104,3,2.6
+2026-1,Ingeniería Industrial,Física I,E10104,4,4.3
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10104,2,4.5
+2025-2,Ingeniería Industrial,Cálculo I,E10105,4,4.3
+2025-2,Ingeniería Industrial,Estadística I,E10105,3,3.2
+2025-2,Ingeniería Industrial,Física I,E10105,4,2.6
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10105,2,2.7
+2026-1,Ingeniería Industrial,Cálculo I,E10105,4,4.5
+2026-1,Ingeniería Industrial,Estadística I,E10105,3,2.9
+2026-1,Ingeniería Industrial,Física I,E10105,4,3.1
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10105,2,3.9
+2025-2,Ingeniería Industrial,Cálculo I,E10106,4,2.7
+2025-2,Ingeniería Industrial,Estadística I,E10106,3,3.6
+2025-2,Ingeniería Industrial,Física I,E10106,4,3.8
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10106,2,2.5
+2026-1,Ingeniería Industrial,Cálculo I,E10106,4,3.0
+2026-1,Ingeniería Industrial,Estadística I,E10106,3,3.3
+2026-1,Ingeniería Industrial,Física I,E10106,4,3.4
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10106,2,3.6
+2025-2,Ingeniería Industrial,Cálculo I,E10107,4,5.0
+2025-2,Ingeniería Industrial,Estadística I,E10107,3,4.2
+2025-2,Ingeniería Industrial,Física I,E10107,4,2.7
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10107,2,3.1
+2026-1,Ingeniería Industrial,Cálculo I,E10107,4,2.8
+2026-1,Ingeniería Industrial,Estadística I,E10107,3,2.6
+2026-1,Ingeniería Industrial,Física I,E10107,4,2.5
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10107,2,3.6
+2025-2,Ingeniería Industrial,Cálculo I,E10108,4,3.7
+2025-2,Ingeniería Industrial,Estadística I,E10108,3,3.1
+2025-2,Ingeniería Industrial,Física I,E10108,4,3.7
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10108,2,3.6
+2026-1,Ingeniería Industrial,Cálculo I,E10108,4,3.0
+2026-1,Ingeniería Industrial,Estadística I,E10108,3,3.3
+2026-1,Ingeniería Industrial,Física I,E10108,4,4.7
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10108,2,3.2
+2025-2,Ingeniería Industrial,Cálculo I,E10109,4,3.1
+2025-2,Ingeniería Industrial,Estadística I,E10109,3,3.2
+2025-2,Ingeniería Industrial,Física I,E10109,4,5.0
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10109,2,3.0
+2026-1,Ingeniería Industrial,Cálculo I,E10109,4,3.3
+2026-1,Ingeniería Industrial,Estadística I,E10109,3,2.7
+2026-1,Ingeniería Industrial,Física I,E10109,4,2.7
+2026-1,Ingeniería Industrial,Dibujo Técnico,E10109,2,3.5
+2025-2,Ingeniería Industrial,Cálculo I,E10110,4,3.1
+2025-2,Ingeniería Industrial,Estadística I,E10110,3,2.6
+2025-2,Ingeniería Industrial,Física I,E10110,4,1.9
+2025-2,Ingeniería Industrial,Dibujo Técnico,E10110,2,3.3
+2025-2,Administración Ambiental,Cálculo I,E10141,4,3.9
+2025-2,Administración Ambiental,Química General,E10141,3,3.1
+2025-2,Administración Ambiental,Estadística I,E10141,3,4.2
+2025-2,Administración Ambiental,Ecología,E10141,2,2.2
+2026-1,Administración Ambiental,Cálculo I,E10141,4,1.8
+2026-1,Administración Ambiental,Química General,E10141,3,2.7
+2026-1,Administración Ambiental,Estadística I,E10141,3,3.2
+2026-1,Administración Ambiental,Ecología,E10141,2,3.3
+2025-2,Administración Ambiental,Cálculo I,E10142,4,4.6
+2025-2,Administración Ambiental,Química General,E10142,3,3.2
+2025-2,Administración Ambiental,Estadística I,E10142,3,3.9
+2025-2,Administración Ambiental,Ecología,E10142,2,2.6
+2025-2,Administración Ambiental,Cálculo I,E10143,4,5.0
+2025-2,Administración Ambiental,Química General,E10143,3,2.9
+2025-2,Administración Ambiental,Estadística I,E10143,3,4.5
+2025-2,Administración Ambiental,Ecología,E10143,2,3.2
+2025-2,Administración Ambiental,Cálculo I,E10144,4,3.7
+2025-2,Administración Ambiental,Química General,E10144,3,3.5
+2025-2,Administración Ambiental,Estadística I,E10144,3,3.0
+2025-2,Administración Ambiental,Ecología,E10144,2,2.9
+2025-2,Administración Ambiental,Cálculo I,E10145,4,3.2
+2025-2,Administración Ambiental,Química General,E10145,3,3.2
+2025-2,Administración Ambiental,Estadística I,E10145,3,3.7
+2025-2,Administración Ambiental,Ecología,E10145,2,3.3
+2026-1,Administración Ambiental,Cálculo I,E10145,4,3.0
+2026-1,Administración Ambiental,Química General,E10145,3,2.4
+2026-1,Administración Ambiental,Estadística I,E10145,3,2.5
+2026-1,Administración Ambiental,Ecología,E10145,2,3.1
+2025-2,Administración Ambiental,Cálculo I,E10146,4,3.1
+2025-2,Administración Ambiental,Química General,E10146,3,3.4
+2025-2,Administración Ambiental,Estadística I,E10146,3,2.8
+2025-2,Administración Ambiental,Ecología,E10146,2,4.2
+2026-1,Administración Ambiental,Cálculo I,E10146,4,2.8
+2026-1,Administración Ambiental,Química General,E10146,3,3.5
+2026-1,Administración Ambiental,Estadística I,E10146,3,4.2
+2026-1,Administración Ambiental,Ecología,E10146,2,3.5
+2025-2,Administración Ambiental,Cálculo I,E10147,4,3.2
+2025-2,Administración Ambiental,Química General,E10147,3,3.0
+2025-2,Administración Ambiental,Estadística I,E10147,3,3.5
+2025-2,Administración Ambiental,Ecología,E10147,2,4.4
+2026-1,Administración Ambiental,Cálculo I,E10147,4,2.7
+2026-1,Administración Ambiental,Química General,E10147,3,3.4
+2026-1,Administración Ambiental,Estadística I,E10147,3,3.2
+2026-1,Administración Ambiental,Ecología,E10147,2,4.5
+2025-2,Administración Ambiental,Cálculo I,E10148,4,4.0
+2025-2,Administración Ambiental,Química General,E10148,3,3.8
+2025-2,Administración Ambiental,Estadística I,E10148,3,3.4
+2025-2,Administración Ambiental,Ecología,E10148,2,3.0
+2026-1,Administración Ambiental,Cálculo I,E10148,4,4.9
+2026-1,Administración Ambiental,Química General,E10148,3,2.8
+2026-1,Administración Ambiental,Estadística I,E10148,3,3.7
+2026-1,Administración Ambiental,Ecología,E10148,2,1.9
+2025-2,Administración Ambiental,Cálculo I,E10149,4,3.0
+2025-2,Administración Ambiental,Química General,E10149,3,2.3
+2025-2,Administración Ambiental,Estadística I,E10149,3,3.0
+2025-2,Administración Ambiental,Ecología,E10149,2,4.2
+2026-1,Administración Ambiental,Cálculo I,E10149,4,3.4
+2026-1,Administración Ambiental,Química General,E10149,3,3.4
+2026-1,Administración Ambiental,Estadística I,E10149,3,1.9
+2026-1,Administración Ambiental,Ecología,E10149,2,4.8
+2025-2,Administración Ambiental,Cálculo I,E10150,4,2.5
+2025-2,Administración Ambiental,Química General,E10150,3,3.9
+2025-2,Administración Ambiental,Estadística I,E10150,3,2.7
+2025-2,Administración Ambiental,Ecología,E10150,2,3.3
+2026-1,Administración Ambiental,Cálculo I,E10150,4,3.4
+2026-1,Administración Ambiental,Química General,E10150,3,2.3
+2026-1,Administración Ambiental,Estadística I,E10150,3,3.1
+2026-1,Administración Ambiental,Ecología,E10150,2,2.9
+2025-2,Administración Ambiental,Cálculo I,E10151,4,3.4
+2025-2,Administración Ambiental,Química General,E10151,3,4.1
+2025-2,Administración Ambiental,Estadística I,E10151,3,2.9
+2025-2,Administración Ambiental,Ecología,E10151,2,2.3
+2026-1,Administración Ambiental,Cálculo I,E10151,4,2.8
+2026-1,Administración Ambiental,Química General,E10151,3,3.1
+2026-1,Administración Ambiental,Estadística I,E10151,3,1.3
+2026-1,Administración Ambiental,Ecología,E10151,2,3.0
+2025-2,Administración Ambiental,Cálculo I,E10152,4,3.3
+2025-2,Administración Ambiental,Química General,E10152,3,2.1
+2025-2,Administración Ambiental,Estadística I,E10152,3,2.9
+2025-2,Administración Ambiental,Ecología,E10152,2,3.1
+2026-1,Administración Ambiental,Cálculo I,E10152,4,1.5
+2026-1,Administración Ambiental,Química General,E10152,3,3.7
+2026-1,Administración Ambiental,Estadística I,E10152,3,2.7
+2026-1,Administración Ambiental,Ecología,E10152,2,2.8
+2025-2,Administración Ambiental,Cálculo I,E10153,4,3.7
+2025-2,Administración Ambiental,Química General,E10153,3,3.7
+2025-2,Administración Ambiental,Estadística I,E10153,3,2.9
+2025-2,Administración Ambiental,Ecología,E10153,2,2.9
+2026-1,Administración Ambiental,Cálculo I,E10153,4,2.9
+2026-1,Administración Ambiental,Química General,E10153,3,3.7
+2026-1,Administración Ambiental,Estadística I,E10153,3,2.8
+2026-1,Administración Ambiental,Ecología,E10153,2,3.6
+2025-2,Administración Ambiental,Cálculo I,E10154,4,3.3
+2025-2,Administración Ambiental,Química General,E10154,3,3.3
+2025-2,Administración Ambiental,Estadística I,E10154,3,3.1
+2025-2,Administración Ambiental,Ecología,E10154,2,3.2
+2026-1,Administración Ambiental,Cálculo I,E10154,4,3.8
+2026-1,Administración Ambiental,Química General,E10154,3,2.6
+2026-1,Administración Ambiental,Estadística I,E10154,3,4.1
+2026-1,Administración Ambiental,Ecología,E10154,2,3.7
+2025-2,Administración Ambiental,Cálculo I,E10155,4,3.6
+2025-2,Administración Ambiental,Química General,E10155,3,2.1
+2025-2,Administración Ambiental,Estadística I,E10155,3,3.7
+2025-2,Administración Ambiental,Ecología,E10155,2,2.9
+2026-1,Administración Ambiental,Cálculo I,E10155,4,3.3
+2026-1,Administración Ambiental,Química General,E10155,3,2.6
+2026-1,Administración Ambiental,Estadística I,E10155,3,3.2
+2026-1,Administración Ambiental,Ecología,E10155,2,4.1
+2025-2,Administración Ambiental,Cálculo I,E10156,4,3.2
+2025-2,Administración Ambiental,Química General,E10156,3,3.3
+2025-2,Administración Ambiental,Estadística I,E10156,3,3.7
+2025-2,Administración Ambiental,Ecología,E10156,2,4.6
+2026-1,Administración Ambiental,Cálculo I,E10156,4,3.1
+2026-1,Administración Ambiental,Química General,E10156,3,2.1
+2026-1,Administración Ambiental,Estadística I,E10156,3,2.1
+2026-1,Administración Ambiental,Ecología,E10156,2,4.3
+2025-2,Administración Ambiental,Cálculo I,E10157,4,3.6
+2025-2,Administración Ambiental,Química General,E10157,3,3.7
+2025-2,Administración Ambiental,Estadística I,E10157,3,2.6
+2025-2,Administración Ambiental,Ecología,E10157,2,4.1
+2026-1,Administración Ambiental,Cálculo I,E10157,4,3.0
+2026-1,Administración Ambiental,Química General,E10157,3,2.8
+2026-1,Administración Ambiental,Estadística I,E10157,3,2.9
+2026-1,Administración Ambiental,Ecología,E10157,2,2.9
+2025-2,Administración Ambiental,Cálculo I,E10158,4,4.6
+2025-2,Administración Ambiental,Química General,E10158,3,3.2
+2025-2,Administración Ambiental,Estadística I,E10158,3,2.4
+2025-2,Administración Ambiental,Ecología,E10158,2,4.9
+2026-1,Administración Ambiental,Cálculo I,E10158,4,3.4
+2026-1,Administración Ambiental,Química General,E10158,3,4.4
+2026-1,Administración Ambiental,Estadística I,E10158,3,4.5
+2026-1,Administración Ambiental,Ecología,E10158,2,3.7
+2025-2,Administración Ambiental,Cálculo I,E10159,4,3.8
+2025-2,Administración Ambiental,Química General,E10159,3,4.1
+2025-2,Administración Ambiental,Estadística I,E10159,3,2.6
+2025-2,Administración Ambiental,Ecología,E10159,2,3.0
+2026-1,Administración Ambiental,Cálculo I,E10159,4,2.7
+2026-1,Administración Ambiental,Química General,E10159,3,4.1
+2026-1,Administración Ambiental,Estadística I,E10159,3,4.0
+2026-1,Administración Ambiental,Ecología,E10159,2,3.6
+2025-2,Administración Ambiental,Cálculo I,E10160,4,2.8
+2025-2,Administración Ambiental,Química General,E10160,3,3.0
+2025-2,Administración Ambiental,Estadística I,E10160,3,3.2
+2025-2,Administración Ambiental,Ecología,E10160,2,4.2
+2026-1,Administración Ambiental,Cálculo I,E10160,4,4.5
+2026-1,Administración Ambiental,Química General,E10160,3,3.3
+2026-1,Administración Ambiental,Estadística I,E10160,3,1.9
+2026-1,Administración Ambiental,Ecología,E10160,2,3.1
+2025-2,Administración Ambiental,Cálculo I,E10161,4,3.1
+2025-2,Administración Ambiental,Química General,E10161,3,4.6
+2025-2,Administración Ambiental,Estadística I,E10161,3,4.3
+2025-2,Administración Ambiental,Ecología,E10161,2,3.1
+2025-2,Administración Ambiental,Cálculo I,E10162,4,2.9
+2025-2,Administración Ambiental,Química General,E10162,3,4.0
+2025-2,Administración Ambiental,Estadística I,E10162,3,3.6
+2025-2,Administración Ambiental,Ecología,E10162,2,4.2
+2026-1,Administración Ambiental,Cálculo I,E10162,4,2.4
+2026-1,Administración Ambiental,Química General,E10162,3,3.9
+2026-1,Administración Ambiental,Estadística I,E10162,3,4.7
+2026-1,Administración Ambiental,Ecología,E10162,2,2.6
+2025-2,Administración Ambiental,Cálculo I,E10163,4,2.7
+2025-2,Administración Ambiental,Química General,E10163,3,3.1
+2025-2,Administración Ambiental,Estadística I,E10163,3,4.4
+2025-2,Administración Ambiental,Ecología,E10163,2,2.2
+2026-1,Administración Ambiental,Cálculo I,E10163,4,4.0
+2026-1,Administración Ambiental,Química General,E10163,3,3.5
+2026-1,Administración Ambiental,Estadística I,E10163,3,3.9
+2026-1,Administración Ambiental,Ecología,E10163,2,4.4
+2025-2,Administración Ambiental,Cálculo I,E10164,4,3.7
+2025-2,Administración Ambiental,Química General,E10164,3,2.6
+2025-2,Administración Ambiental,Estadística I,E10164,3,3.5
+2025-2,Administración Ambiental,Ecología,E10164,2,3.6
+2026-1,Administración Ambiental,Cálculo I,E10164,4,3.7
+2026-1,Administración Ambiental,Química General,E10164,3,3.6
+2026-1,Administración Ambiental,Estadística I,E10164,3,3.5
+2026-1,Administración Ambiental,Ecología,E10164,2,3.8
+2025-2,Administración Ambiental,Cálculo I,E10165,4,1.7
+2025-2,Administración Ambiental,Química General,E10165,3,1.5
+2025-2,Administración Ambiental,Estadística I,E10165,3,2.8
+2025-2,Administración Ambiental,Ecología,E10165,2,2.8
+2026-1,Administración Ambiental,Cálculo I,E10165,4,2.7
+2026-1,Administración Ambiental,Química General,E10165,3,4.9
+2026-1,Administración Ambiental,Estadística I,E10165,3,3.6
+2026-1,Administración Ambiental,Ecología,E10165,2,3.6
+2025-2,Administración Ambiental,Cálculo I,E10166,4,4.1
+2025-2,Administración Ambiental,Química General,E10166,3,4.3
+2025-2,Administración Ambiental,Estadística I,E10166,3,3.7
+2025-2,Administración Ambiental,Ecología,E10166,2,3.6
+2026-1,Administración Ambiental,Cálculo I,E10166,4,4.1
+2026-1,Administración Ambiental,Química General,E10166,3,1.9
+2026-1,Administración Ambiental,Estadística I,E10166,3,2.5
+2026-1,Administración Ambiental,Ecología,E10166,2,3.1
+2025-2,Administración Ambiental,Cálculo I,E10167,4,3.9
+2025-2,Administración Ambiental,Química General,E10167,3,3.9
+2025-2,Administración Ambiental,Estadística I,E10167,3,3.9
+2025-2,Administración Ambiental,Ecología,E10167,2,4.1
+2026-1,Administración Ambiental,Cálculo I,E10167,4,3.6
+2026-1,Administración Ambiental,Química General,E10167,3,3.1
+2026-1,Administración Ambiental,Estadística I,E10167,3,4.8
+2026-1,Administración Ambiental,Ecología,E10167,2,3.4
+2025-2,Administración Ambiental,Cálculo I,E10168,4,3.7
+2025-2,Administración Ambiental,Química General,E10168,3,3.3
+2025-2,Administración Ambiental,Estadística I,E10168,3,3.1
+2025-2,Administración Ambiental,Ecología,E10168,2,2.6
+2026-1,Administración Ambiental,Cálculo I,E10168,4,4.3
+2026-1,Administración Ambiental,Química General,E10168,3,3.4
+2026-1,Administración Ambiental,Estadística I,E10168,3,4.2
+2026-1,Administración Ambiental,Ecología,E10168,2,3.7
+2025-2,Administración Ambiental,Cálculo I,E10169,4,4.2
+2025-2,Administración Ambiental,Química General,E10169,3,3.4
+2025-2,Administración Ambiental,Estadística I,E10169,3,3.1
+2025-2,Administración Ambiental,Ecología,E10169,2,3.5
+2026-1,Administración Ambiental,Cálculo I,E10169,4,3.2
+2026-1,Administración Ambiental,Química General,E10169,3,2.5
+2026-1,Administración Ambiental,Estadística I,E10169,3,2.7
+2026-1,Administración Ambiental,Ecología,E10169,2,3.7
+2025-2,Administración Ambiental,Cálculo I,E10170,4,4.1
+2025-2,Administración Ambiental,Química General,E10170,3,2.5
+2025-2,Administración Ambiental,Estadística I,E10170,3,3.6
+2025-2,Administración Ambiental,Ecología,E10170,2,2.8
+2026-1,Administración Ambiental,Cálculo I,E10170,4,3.8
+2026-1,Administración Ambiental,Química General,E10170,3,2.1
+2026-1,Administración Ambiental,Estadística I,E10170,3,3.1
+2026-1,Administración Ambiental,Ecología,E10170,2,2.7
+2025-2,Administración Ambiental,Cálculo I,E10171,4,2.4
+2025-2,Administración Ambiental,Química General,E10171,3,4.0
+2025-2,Administración Ambiental,Estadística I,E10171,3,2.4
+2025-2,Administración Ambiental,Ecología,E10171,2,2.9
+2026-1,Administración Ambiental,Cálculo I,E10171,4,2.7
+2026-1,Administración Ambiental,Química General,E10171,3,4.8
+2026-1,Administración Ambiental,Estadística I,E10171,3,3.9
+2026-1,Administración Ambiental,Ecología,E10171,2,2.9
+2025-2,Administración Ambiental,Cálculo I,E10172,4,3.0
+2025-2,Administración Ambiental,Química General,E10172,3,3.1
+2025-2,Administración Ambiental,Estadística I,E10172,3,3.2
+2025-2,Administración Ambiental,Ecología,E10172,2,3.5
+2026-1,Administración Ambiental,Cálculo I,E10172,4,2.6
+2026-1,Administración Ambiental,Química General,E10172,3,2.8
+2026-1,Administración Ambiental,Estadística I,E10172,3,3.1
+2026-1,Administración Ambiental,Ecología,E10172,2,4.7
+2025-2,Administración Ambiental,Cálculo I,E10173,4,3.9
+2025-2,Administración Ambiental,Química General,E10173,3,5.0
+2025-2,Administración Ambiental,Estadística I,E10173,3,3.3
+2025-2,Administración Ambiental,Ecología,E10173,2,2.5
+2025-2,Administración Ambiental,Cálculo I,E10174,4,1.4
+2025-2,Administración Ambiental,Química General,E10174,3,3.2
+2025-2,Administración Ambiental,Estadística I,E10174,3,2.8
+2025-2,Administración Ambiental,Ecología,E10174,2,4.9
+2026-1,Administración Ambiental,Cálculo I,E10174,4,3.4
+2026-1,Administración Ambiental,Química General,E10174,3,5.0
+2026-1,Administración Ambiental,Estadística I,E10174,3,2.8
+2026-1,Administración Ambiental,Ecología,E10174,2,3.0
+2025-2,Administración Ambiental,Cálculo I,E10175,4,4.4
+2025-2,Administración Ambiental,Química General,E10175,3,2.9
+2025-2,Administración Ambiental,Estadística I,E10175,3,3.0
+2025-2,Administración Ambiental,Ecología,E10175,2,2.7
+2026-1,Administración Ambiental,Cálculo I,E10175,4,2.6
+2026-1,Administración Ambiental,Química General,E10175,3,3.8
+2026-1,Administración Ambiental,Estadística I,E10175,3,3.1
+2026-1,Administración Ambiental,Ecología,E10175,2,3.7
+2025-2,Administración Ambiental,Cálculo I,E10176,4,3.8
+2025-2,Administración Ambiental,Química General,E10176,3,2.6
+2025-2,Administración Ambiental,Estadística I,E10176,3,2.9
+2025-2,Administración Ambiental,Ecología,E10176,2,2.4
+2026-1,Administración Ambiental,Cálculo I,E10176,4,2.7
+2026-1,Administración Ambiental,Química General,E10176,3,3.1
+2026-1,Administración Ambiental,Estadística I,E10176,3,3.5
+2026-1,Administración Ambiental,Ecología,E10176,2,2.6
+2025-2,Administración Ambiental,Cálculo I,E10177,4,3.4
+2025-2,Administración Ambiental,Química General,E10177,3,4.3
+2025-2,Administración Ambiental,Estadística I,E10177,3,2.8
+2025-2,Administración Ambiental,Ecología,E10177,2,4.1
+2026-1,Administración Ambiental,Cálculo I,E10177,4,2.1
+2026-1,Administración Ambiental,Química General,E10177,3,2.4
+2026-1,Administración Ambiental,Estadística I,E10177,3,2.8
+2026-1,Administración Ambiental,Ecología,E10177,2,5.0
+2025-2,Administración Ambiental,Cálculo I,E10178,4,3.9
+2025-2,Administración Ambiental,Química General,E10178,3,3.9
+2025-2,Administración Ambiental,Estadística I,E10178,3,3.4
+2025-2,Administración Ambiental,Ecología,E10178,2,4.1
+2026-1,Administración Ambiental,Cálculo I,E10178,4,4.2
+2026-1,Administración Ambiental,Química General,E10178,3,2.5
+2026-1,Administración Ambiental,Estadística I,E10178,3,4.0
+2026-1,Administración Ambiental,Ecología,E10178,2,3.4
+2025-2,Administración Ambiental,Cálculo I,E10179,4,4.0
+2025-2,Administración Ambiental,Química General,E10179,3,4.5
+2025-2,Administración Ambiental,Estadística I,E10179,3,5.0
+2025-2,Administración Ambiental,Ecología,E10179,2,2.6
+2026-1,Administración Ambiental,Cálculo I,E10179,4,3.0
+2026-1,Administración Ambiental,Química General,E10179,3,3.3
+2026-1,Administración Ambiental,Estadística I,E10179,3,2.7
+2026-1,Administración Ambiental,Ecología,E10179,2,2.8
+2025-2,Administración Ambiental,Cálculo I,E10180,4,3.3
+2025-2,Administración Ambiental,Química General,E10180,3,3.8
+2025-2,Administración Ambiental,Estadística I,E10180,3,3.1
+2025-2,Administración Ambiental,Ecología,E10180,2,3.6
+2026-1,Administración Ambiental,Cálculo I,E10180,4,5.0
+2026-1,Administración Ambiental,Química General,E10180,3,3.4
+2026-1,Administración Ambiental,Estadística I,E10180,3,3.5
+2026-1,Administración Ambiental,Ecología,E10180,2,3.1

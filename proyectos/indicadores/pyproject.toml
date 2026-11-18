@@ -1,0 +1,9 @@
+[project]
+name = "indicadores"
+version = "0.3.0"
+description = "Indicadores académicos (datos sintéticos) para la plataforma de inteligencia institucional"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
