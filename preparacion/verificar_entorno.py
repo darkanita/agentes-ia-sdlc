@@ -112,12 +112,11 @@ def red() -> None:
 
 def probar_modelo(valores: dict[str, str]) -> None:
     print("\nModelo")
-    sys.path.insert(0, str(RAIZ / "sesion-01" / "demo"))
+    proveedores = {"groq": ("https://api.groq.com/openai/v1", "GROQ_API_KEY", "openai/gpt-oss-120b"),
+                   "openrouter": ("https://openrouter.ai/api/v1", "OPENROUTER_API_KEY", "openrouter/free")}
     try:
-        import agente_minimo as a
-        os.environ.update(valores)
         proveedor = valores.get("PROVEEDOR", "groq")
-        url, var, modelo = a.PROVEEDORES[proveedor]
+        url, var, modelo = proveedores.get(proveedor, proveedores["groq"])
         if not valores.get(var):
             informe("FALTA", f"{proveedor}", f"falta {var} en .env")
             return

@@ -2,7 +2,7 @@
 
 Pareja (una persona del proyecto y una de Sistemas):
 
-Llene una ficha por idea (dos ideas). En la sesión 2 cada pareja elige una.
+Llene una ficha por idea (dos ideas). En la sesión 2 cada pareja elige una (hito 1).
 
 ## Idea N.º __: (nombre corto)
 

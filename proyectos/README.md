@@ -13,4 +13,4 @@ opencode
 |---|---|---|
 | `indicadores` | Indicadores académicos: tasa de aprobación, promedio ponderado y deserción por cohorte. CLI: `PYTHONPATH=src python -m indicadores` | 1 en adelante |
 
-El agente de la demo (`sesion-01/demo/agente_minimo.py`) usa las funciones de `indicadores` como herramientas. Con `--proyecto ../practica-indicadores` usa su copia: si usted corrige algo ahí, el agente responde distinto.
+El agente de la demo de la sesión 2 (`sesion-02/demo/agente_minimo.py`, se publica con esa sesión) usa las funciones de `indicadores` como herramientas. Con `--proyecto ../practica-indicadores` usa su copia: si usted corrige algo ahí, el agente responde distinto.

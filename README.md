@@ -15,7 +15,7 @@ En las dos, el centro es el **harness** que controla al agente: contexto, herram
 
 | Carpeta | Para qué |
 |---|---|
-| `demo/` | Lo que la docente muestra en vivo |
+| `demo/` | Lo que la docente muestra en vivo (desde la sesión 2) |
 | `laboratorio/` | El ejercicio de la sesión, con pruebas automáticas |
 | `autonomo/` | Trabajo para antes de la siguiente sesión |
 | `proyectos/` | Proyectos de práctica con datos sintéticos que se reutilizan en varias sesiones |
@@ -36,8 +36,8 @@ Proyecto aplicado en **parejas mixtas** (una persona del proyecto y una de Siste
 
 | Sesión | Tema | Dirección | Hito de la pareja |
 |---|---|---|---|
-| 1 | Qué es un agente y el ciclo razonar–actuar–observar; OpenCode en un repositorio real; bondades y límites | Las dos | — |
-| 2 | Valor, límites y riesgos con casos reales; mapa de casos de uso priorizados | Las dos | **Hito 1:** caso elegido |
+| 1 | **Conceptual.** Agentes en general, agentes en el SDLC y el SDLC de un agente; bondades, límites y riesgos; las herramientas del curso | Las dos | — |
+| 2 | **Práctica.** El ciclo del agente en código; OpenCode lleva un reporte de error de punta a punta con aprobación humana; elección del caso | Las dos | **Hito 1:** caso elegido |
 | 3 | El harness I: instrucciones y contexto (`AGENTS.md`, reglas), modelos y costos | 1 | — |
 | 4 | El harness II: herramientas y MCP, permisos y aprobación, sandbox y hooks; el harness del producto | 1 y 2 | **Hito 2:** harness diseñado |
 | 5 | De la historia de usuario a la especificación y al plan con agentes de código; herramientas del agente producto | 1 y 2 | — |
