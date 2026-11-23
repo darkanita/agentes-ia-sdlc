@@ -20,13 +20,14 @@ En las dos, el centro es el **harness**: el contexto, las herramientas, los perm
 | Tiempo | Bloque |
 |---|---|
 | 0:00 – 0:12 | El curso: las dos direcciones, cómo trabajamos y la regla de los datos |
-| 0:12 – 0:52 | **Agentes en general:** qué es un agente y de dónde viene; el modelo, las herramientas y el llamado a herramientas; el ciclo razonar → actuar → observar; cómo razona (ReAct, planificar y ejecutar); contexto y memoria; MCP y A2A; tipos de agentes; flujos y agentes; sistemas y arquitecturas multiagente; marcos |
-| 0:52 – 1:07 | Agentes en el SDLC: qué hacen en cada etapa, niveles de autonomía y dónde aprueba una persona |
-| 1:07 – 1:17 | El SDLC de un agente: qué cambia cuando el producto es un agente |
-| 1:17 – 1:29 | Bondades, límites y riesgos; cuándo **no** usar un agente |
-| 1:29 – 1:42 | Las herramientas del curso: OpenCode, modelos gratuitos, Python y GitHub |
-| 1:42 – 1:52 | Primer mapa de casos de uso por pareja |
-| 1:52 – 2:00 | Cómo llegar listos a la sesión 2 |
+| 0:12 – 0:47 | **Qué es un agente:** definición y de dónde viene; el modelo, las herramientas y el llamado a herramientas; el ciclo razonar → actuar → observar; cómo razona (ReAct, planificar y ejecutar); contexto y memoria; MCP y A2A; tipos de agentes |
+| 0:47 – 1:05 | **Sistemas y arquitecturas multiagente:** flujos y agentes; por qué más de un agente; roles; arquitecturas secuencial, supervisor, jerárquica y en red; cómo se coordinan; dos ejemplos; lo que se complica; marcos |
+| 1:05 – 1:17 | Agentes en el SDLC: qué hacen en cada etapa, niveles de autonomía y dónde aprueba una persona |
+| 1:17 – 1:25 | El SDLC de un agente: qué cambia cuando el producto es un agente |
+| 1:25 – 1:37 | Bondades, límites y riesgos; cuándo **no** usar un agente |
+| 1:37 – 1:47 | Las herramientas del curso: OpenCode, modelos gratuitos, Python y GitHub |
+| 1:47 – 1:55 | Primer mapa de casos de uso por pareja |
+| 1:55 – 2:00 | Cómo llegar listos a la sesión 2 |
 
 ## Conceptos clave
 
@@ -37,6 +38,7 @@ En las dos, el centro es el **harness**: el contexto, las herramientas, los perm
 | **Ciclo razonar → actuar → observar** | Cada vuelta: el modelo decide, pide una herramienta, recibe el resultado y vuelve a decidir. |
 | **Flujo (workflow)** | Pasos fijos definidos por una persona, aunque alguno use un modelo. Más predecible y barato que un agente. |
 | **Sistema multiagente** | Varios agentes con roles (planificador, ejecutor, revisor) que se pasan trabajo entre sí. |
+| **Supervisor** | Arquitectura multiagente en la que un agente coordina y reparte el trabajo a agentes especialistas. |
 | **Harness** | Todo lo que rodea al modelo: instrucciones, contexto, herramientas, permisos, límites, aprobación humana y verificación. |
 | **Agente de código** | Un agente cuyas herramientas son las del desarrollo: leer, buscar, editar, ejecutar comandos. En el curso: OpenCode. |
 | **Evaluación** | Medir con casos y criterios si un agente responde bien, de forma repetible. Es a un agente lo que las pruebas al código. |
