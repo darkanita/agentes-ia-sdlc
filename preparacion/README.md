@@ -2,7 +2,7 @@
 
 Antes de la **sesión 2**, cada participante debe tener instalado OpenCode, sus cuentas gratuitas creadas y el material del curso funcionando. Toma entre 30 y 45 minutos. Al terminar, corra el verificador (sección 5) y envíe una captura por el canal del curso.
 
-Todo es gratuito. Solo se recomienda, de forma opcional, una recarga única de **US$10 en OpenRouter**: sube el límite de los modelos gratuitos de 50 a 1.000 solicitudes por día.
+Todo es gratuito: **no necesita tarjeta de crédito ni recargar saldo en ningún servicio.** Si un proveedor llega a su límite diario, use otro: por eso creamos tres cuentas.
 
 ## 1. Qué debe tener su máquina
 
