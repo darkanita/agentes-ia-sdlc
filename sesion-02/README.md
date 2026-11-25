@@ -17,13 +17,39 @@ Las dos usan el mismo código: cuando el agente de código corrige un indicador,
 
 | Tiempo | Bloque | Material |
 |---|---|---|
-| 0:00 – 0:10 | Entornos listos: verificador y primer `opencode` | `preparacion/verificar_entorno.py` |
-| 0:10 – 0:25 | El ciclo en código: un agente en ~100 líneas | `demo/agente_minimo.py` |
-| 0:25 – 0:40 | OpenCode en su repositorio: modelos, Build y Plan, permisos | `demo/opencode.json` |
-| 0:40 – 1:15 | En vivo y en parejas: un reporte de error de punta a punta | `proyectos/indicadores` |
-| 1:15 – 1:25 | Los límites, en vivo: alucinación y datos sensibles | OpenCode |
-| 1:25 – 1:50 | **Hito 1:** el caso de cada pareja | `autonomo/` de la sesión 1 |
-| 1:50 – 2:00 | Laboratorio 1 y trabajo autónomo | `laboratorio/`, `autonomo/` |
+| 0:00 – 0:15 | Entorno de Python listo: `.venv`, dependencias y verificador | `preparacion/verificar_entorno.py` |
+| 0:15 – 0:23 | El SDLC en 8 minutos: las etapas y las palabras que usaremos hoy | Presentación |
+| 0:23 – 0:35 | El ciclo en código: un agente en ~100 líneas | `demo/agente_minimo.py` |
+| 0:35 – 0:50 | OpenCode en su repositorio: modelos, Build y Plan, permisos | `demo/opencode.json` |
+| 0:50 – 1:25 | En vivo y en parejas: un reporte de error de punta a punta | `proyectos/indicadores` |
+| 1:25 – 1:32 | Los límites, en vivo: alucinación y datos sensibles | OpenCode |
+| 1:32 – 1:52 | **Hito 1:** el caso de cada pareja | `autonomo/` de la sesión 1 |
+| 1:52 – 2:00 | Laboratorio 1 y trabajo autónomo | `laboratorio/`, `autonomo/` |
+
+## Antes de empezar: el entorno de Python
+
+En la carpeta del curso, una sola vez:
+
+```bash
+python -m venv .venv
+.venv\Scripts\Activate.ps1          # Windows  ·  macOS/Linux: source .venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
+Active el entorno (`(.venv)` aparece al inicio de la terminal) **cada vez** que abra una terminal, y **antes** de abrir `opencode`: los comandos que ejecuta el agente usan ese Python.
+
+## Palabras que usaremos hoy
+
+| Término | Qué es |
+|---|---|
+| SDLC | Ciclo de vida del desarrollo de software: requisitos, diseño, código, pruebas, revisión, despliegue y operación. |
+| Repositorio | La carpeta del proyecto con todo su historial de cambios (git). |
+| Commit | Una foto guardada de los cambios, con un mensaje que dice qué se hizo. |
+| Diff | La lista de lo que cambió: líneas que se quitaron (−) y que se agregaron (+). |
+| Prueba automatizada | Código que comprueba otro código. `pytest` las ejecuta: verde pasa, rojo falla. |
+| Prueba que falla primero | Antes de corregir, se escribe una prueba que demuestra el error. |
+| Revisión de código | Una persona lee el diff y decide si se acepta. |
+| Pull request (PR) | La propuesta de un cambio para que otros la revisen antes de unirla. |
 
 ## Archivos
 
