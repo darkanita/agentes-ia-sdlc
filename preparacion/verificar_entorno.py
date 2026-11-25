@@ -93,7 +93,7 @@ def llaves() -> dict[str, str]:
     for k in ("GROQ_API_KEY", "OPENROUTER_API_KEY"):
         informe("OK" if k in tiene else ("AVISO" if tiene else "FALTA"), k,
                 "" if k in tiene else "créela en la consola del proveedor (preparacion/README.md, sección 3)")
-    proveedor = valores.get("PROVEEDOR", "groq")
+    proveedor = valores.get("PROVEEDOR") or "groq"
     clave = {"groq": "GROQ_API_KEY", "openrouter": "OPENROUTER_API_KEY"}.get(proveedor)
     if clave and clave not in tiene and tiene:
         informe("AVISO", f"PROVEEDOR={proveedor}", f"pero no hay {clave}: cambie PROVEEDOR en .env")
@@ -115,7 +115,7 @@ def probar_modelo(valores: dict[str, str]) -> None:
     proveedores = {"groq": ("https://api.groq.com/openai/v1", "GROQ_API_KEY", "openai/gpt-oss-120b"),
                    "openrouter": ("https://openrouter.ai/api/v1", "OPENROUTER_API_KEY", "openrouter/free")}
     try:
-        proveedor = valores.get("PROVEEDOR", "groq")
+        proveedor = valores.get("PROVEEDOR") or "groq"
         url, var, modelo = proveedores.get(proveedor, proveedores["groq"])
         if not valores.get(var):
             informe("FALTA", f"{proveedor}", f"falta {var} en .env")

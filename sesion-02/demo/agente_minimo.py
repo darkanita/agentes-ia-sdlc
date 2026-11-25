@@ -60,11 +60,11 @@ def cliente_real():
     from dotenv import load_dotenv
     from openai import OpenAI
     load_dotenv(RAIZ / ".env")
-    proveedor = os.getenv("PROVEEDOR", "groq")
+    proveedor = os.getenv("PROVEEDOR") or "groq"  # una línea vacía en .env cuenta como "no definido"
     url, var_llave, modelo = PROVEEDORES[proveedor]
     if not os.getenv(var_llave):
         sys.exit(f"Falta {var_llave} en .env. Use --simulado o vea preparacion/README.md.")
-    return OpenAI(base_url=url, api_key=os.environ[var_llave]), os.getenv("MODELO", modelo), proveedor
+    return OpenAI(base_url=url, api_key=os.environ[var_llave]), os.getenv("MODELO") or modelo, proveedor
 
 
 class ClienteSimulado:
