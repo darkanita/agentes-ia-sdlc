@@ -26,6 +26,8 @@ Las dos usan el mismo código: cuando el agente de código corrige un indicador,
 | 1:32 – 1:52 | **Hito 1:** el caso de cada pareja | `autonomo/` de la sesión 1 |
 | 1:52 – 2:00 | Laboratorio 1 y trabajo autónomo | `laboratorio/`, `autonomo/` |
 
+> **Paso a paso de la clase, con los prompts para copiar:** [`PASO_A_PASO.md`](PASO_A_PASO.md)
+
 ## Antes de empezar: el entorno de Python
 
 En la carpeta del curso, una sola vez:
